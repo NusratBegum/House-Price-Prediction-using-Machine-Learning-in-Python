@@ -1,5 +1,11 @@
 # House Price Prediction using Machine Learning in Python
 
+**Notebook:** [view with all outputs (nbviewer)](https://nbviewer.org/github/NusratBegum/House-Price-Prediction-using-Machine-Learning-in-Python/blob/main/index.ipynb) · [open in Colab](https://colab.research.google.com/github/NusratBegum/House-Price-Prediction-using-Machine-Learning-in-Python/blob/main/index.ipynb)
+
+![Engineered features vs house price](docs/preview-1.png)
+
+![Regression diagnostics](docs/preview-2.png)
+
 ## Project Description
 
 This project implements a comprehensive machine learning solution for predicting house prices using the Boston Housing dataset. The analysis demonstrates the complete data science workflow, from exploratory data analysis through model development and evaluation. By comparing Simple Linear Regression with Multiple Linear Regression approaches, the project illustrates how incorporating multiple features can significantly improve prediction accuracy.
